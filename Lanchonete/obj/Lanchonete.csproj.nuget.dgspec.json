@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\Lanchonete\\Lanchonete\\Lanchonete.csproj": {}
+    "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\Lanchonete.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\Lanchonete\\Lanchonete\\Lanchonete.csproj": {
+    "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\Lanchonete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
         "projectName": "Lanchonete",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\Lanchonete\\Lanchonete\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
