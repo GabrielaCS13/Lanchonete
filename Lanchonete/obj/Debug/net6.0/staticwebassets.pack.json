@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\imagens\\carousel13.jpg"
     },
     {
+      "Id": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\wwwroot\\imagens\\hamburguer-picanha.jpg",
+      "PackagePath": "staticwebassets\\imagens\\hamburguer-picanha.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

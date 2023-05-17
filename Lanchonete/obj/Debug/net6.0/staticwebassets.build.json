@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SHv9U+jPpp/iFInnx3bxRRVGeO7Ej2++V4aRt/+bXyI=",
+  "Hash": "HyNMszDSK48ZmzHGZy/ucKdkRJso7rZUN4X/0/332w4=",
   "Source": "Lanchonete",
   "BasePath": "_content/Lanchonete",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\carousel13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\wwwroot\\imagens\\hamburguer-picanha.jpg",
+      "SourceId": "Lanchonete",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\wwwroot\\",
+      "BasePath": "_content/Lanchonete",
+      "RelativePath": "imagens/hamburguer-picanha.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\hamburguer-picanha.jpg"
     },
     {
       "Identity": "C:\\Users\\Aluno\\Source\\Repos\\Lanchonete\\Lanchonete\\wwwroot\\js\\site.js",
